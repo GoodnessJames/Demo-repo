@@ -6,9 +6,8 @@
  * @delim: The character used to indicate the end of a string
  *
  * Return: On SUCCESS, returns (array) i.e. a pointer to an array of str tokens
- *		   On FAILURE, returns (NULL)
  */
-
+/* The function body */
 char **splitStr(char *str, const char *delim)
 {
 	char **array, *token, *input;
