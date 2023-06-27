@@ -1,9 +1,9 @@
 #include "shell.h"
 
-/**
- * check_input - Verifies if input is from the terminal
+/*
+ * Isatty - 
  *
- * Return: Returns nothing (void)
+ *
  */
 
 void check_input(void)
